@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+  <Question1>
+    <question>This is a farm</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question1>
+  <Question2>
+    <question>There are tigers in the cage.</question>
+    <correct>0</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question2>
+  <Question3>
+    <question>A girl is riding an elephant.</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question3>
+  <Question4>
+    <question>The donkey is drinking water.</question>
+    <correct>0</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question4>
+  <Question5>
+    <question>The ducks are sleeping.</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question5>
+  <Question6>
+    <question>There are no birds in the sky.</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question6>
+</Questions>

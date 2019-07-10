@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Words>
+  <word>
+    <Eng>date</Eng>
+    <EngEnd>date</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>תאריך</Heb>
+    <EngInHeb>דֵיט</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>25</DicNumber>
+    <Arb>تاريخ</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>month</Eng>
+    <EngEnd>month</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>חודש</Heb>
+    <EngInHeb>מַנְת'</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>7</DicNumber>
+    <Arb>الشهر</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>year</Eng>
+    <EngEnd>year</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>שנה</Heb>
+    <EngInHeb>יִיר</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>17</DicNumber>
+    <Arb>السنة</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>winter</Eng>
+    <EngEnd>winter</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>חורף</Heb>
+    <EngInHeb>וִנְטְר</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>12</DicNumber>
+    <Arb>الشتاء</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>spring</Eng>
+    <EngEnd>Spring</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>אביב</Heb>
+    <EngInHeb>סְפְרִנְג</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>14</DicNumber>
+    <Arb>الربيع</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>summer</Eng>
+    <EngEnd>summer</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>קיץ</Heb>
+    <EngInHeb>סַמְר</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>1</DicNumber>
+    <Arb>الصيف</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>autumn</Eng>
+    <EngEnd>autumn</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>סתו</Heb>
+    <EngInHeb>אוֹטֲם</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>20</DicNumber>
+    <Arb>الخريف</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>time</Eng>
+    <EngEnd>time</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>זמן</Heb>
+    <EngInHeb>טַים</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>26</DicNumber>
+    <Arb>الوقت</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>o'clock</Eng>
+    <EngEnd>o'clock</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>שעה  (לפי השעון)</Heb>
+    <EngInHeb>אֲקְלוֹק</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>19</DicNumber>
+    <Arb>الساعة</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>morning</Eng>
+    <EngEnd>morning</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>בוקר</Heb>
+    <EngInHeb>מוֹרְנִנְג</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>27</DicNumber>
+    <Arb>صباح</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>breakfast</Eng>
+    <EngEnd>breakfast</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>ארוחת בוקר</Heb>
+    <EngInHeb>בְּרֶקְפֲסְט</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>13</DicNumber>
+    <Arb>إفطار</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>hour</Eng>
+    <EngEnd>hour</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>שעה</Heb>
+    <EngInHeb>אַוּר</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>23</DicNumber>
+    <Arb>ساعة (60 دقيقة)</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>dark</Eng>
+    <EngEnd>dark</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>חשך</Heb>
+    <EngInHeb>דָרְק</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>22</DicNumber>
+    <Arb>مظلم</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>today</Eng>
+    <EngEnd>Today</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>היום</Heb>
+    <EngInHeb>טֲדֵי</EngInHeb>
+    <PartOfSpeechHeb>other type</PartOfSpeechHeb>
+    <DicNumber>30</DicNumber>
+    <Arb>اليوم</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>yesterday</Eng>
+    <EngEnd>yesterday</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>אתמול</Heb>
+    <EngInHeb>יֶסְטֲרְדֵי</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>24</DicNumber>
+    <Arb>أمس</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>beginning</Eng>
+    <EngEnd>beginning</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>התחלה</Heb>
+    <EngInHeb>בִּגִנִנְג</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>2</DicNumber>
+    <Arb>بداية</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>week</Eng>
+    <EngEnd>week</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>שבוע</Heb>
+    <EngInHeb>וִיק</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>10</DicNumber>
+    <Arb>أسبوع</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>end</Eng>
+    <EngEnd>end</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>סוף</Heb>
+    <EngInHeb>אֶנְד</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>29</DicNumber>
+    <Arb>نهاية</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>day</Eng>
+    <EngEnd>day</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>יום</Heb>
+    <EngInHeb>דֵי</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>9</DicNumber>
+    <Arb>يوم</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>tomorrow</Eng>
+    <EngEnd>tomorrow</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>מחר</Heb>
+    <EngInHeb>טֲמוֹרוֿ</EngInHeb>
+    <PartOfSpeechHeb>other type</PartOfSpeechHeb>
+    <DicNumber>5</DicNumber>
+    <Arb>غدا</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>again</Eng>
+    <EngEnd>again</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>שוב</Heb>
+    <EngInHeb>אֲגֶן</EngInHeb>
+    <PartOfSpeechHeb>
+    </PartOfSpeechHeb>
+    <DicNumber>31</DicNumber>
+    <Arb>مرة أخرى</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>midday</Eng>
+    <EngEnd>midday</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>חצות היום</Heb>
+    <EngInHeb>מִדֵי</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>6</DicNumber>
+    <Arb>منتصف النهار</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>lunch</Eng>
+    <EngEnd>lunch</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>ארוחת צהרים</Heb>
+    <EngInHeb>לַנְץ'</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>8</DicNumber>
+    <Arb>غداء</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>minute</Eng>
+    <EngEnd>minutes</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>דקה</Heb>
+    <EngInHeb>מִנֲט</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>15</DicNumber>
+    <Arb>دقيقة</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>afternoon</Eng>
+    <EngEnd>afternoon</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>אחרי הצהרים</Heb>
+    <EngInHeb>אֱפְטֲרְנוּן</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>21</DicNumber>
+    <Arb>بعد الظهر</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>dinner</Eng>
+    <EngEnd>dinner</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>ארוחת ערב</Heb>
+    <EngInHeb>דִנְר</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>28</DicNumber>
+    <Arb>عشاء</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>evening</Eng>
+    <EngEnd>evening</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>ערב</Heb>
+    <EngInHeb>אִיבְנִנְג</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>18</DicNumber>
+    <Arb>مساء</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>tonight</Eng>
+    <EngEnd>tonight</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>הלילה</Heb>
+    <EngInHeb>טֲנַיט</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>4</DicNumber>
+    <Arb>هذه الليلة</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>night</Eng>
+    <EngEnd>night</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>לילה</Heb>
+    <EngInHeb>נַיט</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>3</DicNumber>
+    <Arb>ليلة</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+  <word>
+    <Eng>midnight</Eng>
+    <EngEnd>midnight</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>חצות הלילה</Heb>
+    <EngInHeb>מִדְנַיט</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>16</DicNumber>
+    <Arb>منتصف الليل</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+    <port>#pt#</port>
+    <cccc>#zh-CN#</cccc>
+  </word>
+</Words>

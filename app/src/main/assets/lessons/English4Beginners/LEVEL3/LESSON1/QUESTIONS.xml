@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+  <Question1>
+    <question>The school bus is blue.</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question1>
+  <Question2>
+    <question>The children are sitting in the school bus.</question>
+    <correct>0</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question2>
+  <Question3>
+    <question>The children are going to the park.</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question3>
+  <Question4>
+    <question>The driver is a man.</question>
+    <correct>0</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question4>
+  <Question5>
+    <question>The driver has a red hat.</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question5>
+</Questions>

@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Words>
+  <word>
+    <Eng>classroom</Eng>
+    <EngEnd>classroom</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>כיתה</Heb>
+    <EngInHeb>קְלֱסרוּם</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>1</DicNumber>
+  </word>
+  <word>
+    <Eng>pupil</Eng>
+    <EngEnd>pupils</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>תלמיד</Heb>
+    <EngInHeb>פּיוּפְּל</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>2</DicNumber>
+  </word>
+  <word>
+    <Eng>four</Eng>
+    <EngEnd>four</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>ארבע</Heb>
+    <EngInHeb>פוֹר</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>3</DicNumber>
+  </word>
+  <word>
+    <Eng>what</Eng>
+    <EngEnd>What</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>מה</Heb>
+    <EngInHeb>ווַט</EngInHeb>
+    <PartOfSpeechHeb>
+    </PartOfSpeechHeb>
+    <DicNumber>4</DicNumber>
+  </word>
+  <word>
+    <Eng>think</Eng>
+    <EngEnd>think</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>לחשוב</Heb>
+    <EngInHeb>תִ'נְק</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>5</DicNumber>
+  </word>
+  <word>
+    <Eng>that</Eng>
+    <EngEnd>that</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>ש...</Heb>
+    <EngInHeb>דֱ'ט</EngInHeb>
+    <PartOfSpeechHeb>
+    </PartOfSpeechHeb>
+    <DicNumber>6</DicNumber>
+  </word>
+  <word>
+    <Eng>mathematics</Eng>
+    <EngEnd>mathematics</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>חשבון</Heb>
+    <EngInHeb>מֱתֲ'מֱטִקס</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>7</DicNumber>
+  </word>
+  <word>
+    <Eng>teacher</Eng>
+    <EngEnd>teacher</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>מורה</Heb>
+    <EngInHeb>טִיצְ'ר</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>8</DicNumber>
+  </word>
+  <word>
+    <Eng>yes</Eng>
+    <EngEnd>Yes</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>כן</Heb>
+    <EngInHeb>יֶס</EngInHeb>
+    <PartOfSpeechHeb>
+    </PartOfSpeechHeb>
+    <DicNumber>9</DicNumber>
+  </word>
+  <word>
+    <Eng>her</Eng>
+    <EngEnd>her</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>שלה\אותה</Heb>
+    <EngInHeb>הֶר</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>10</DicNumber>
+  </word>
+  <word>
+    <Eng>teach</Eng>
+    <EngEnd>teaching</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>ללמד</Heb>
+    <EngInHeb>טִיץ'</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>11</DicNumber>
+  </word>
+  <word>
+    <Eng>good</Eng>
+    <EngEnd>good</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>טוב</Heb>
+    <EngInHeb>גוֻד</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>12</DicNumber>
+  </word>
+  <word>
+    <Eng>stand</Eng>
+    <EngEnd>standing</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>לעמוד</Heb>
+    <EngInHeb>סְטֱנְד</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>15</DicNumber>
+  </word>
+</Words>

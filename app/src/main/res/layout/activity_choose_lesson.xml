@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:orientation="vertical"
+
+    tools:context=".chooseLevel.ChooseLessonActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#3b5998">
+        <android.support.v7.widget.Toolbar
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            app:popupTheme="@style/AppTheme"
+            android:layout_weight="1"
+            android:id="@+id/toolbar_choose_lesson"
+            android:layout_width="match_parent"
+            android:layout_height="50sp"
+            android:background="#001967"
+            app:theme="@style/ThemeOverlay.AppCompat"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center|right">
+
+
+                <SearchView
+                    android:id="@+id/searchList"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left|right"
+                    android:layout_weight="1"
+                    android:background="#001967"
+
+                    android:closeIcon="@drawable/ic_clear_black_24dp"
+                    style="@style/AppTheme"
+                    android:searchHintIcon="@drawable/ic_search_black_24dp"
+                    android:searchIcon="@drawable/ic_search_black_24dp"
+                    android:gravity="left"
+                    android:showDividers="beginning|middle|end"
+                    android:queryHint="search ..."
+
+                    >
+
+                </SearchView>
+
+
+
+            </LinearLayout>
+
+        </android.support.v7.widget.Toolbar>
+        <!--<ImageView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="70sp"-->
+        <!--android:background="@drawable/logo"/>-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#001967"
+            android:padding="12sp"
+            >
+            <TextView
+                android:id="@+id/tv_beginner"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#fff"
+                android:text="@string/reading"
+                android:fontFamily="monospace"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_gravity="center"/>
+
+            <!--<LinearLayout-->
+            <!--android:layout_weight="0.1"-->
+            <!--android:layout_width="3sp"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:background="#fff"-->
+            <!--android:layout_marginRight="10dp"-->
+            <!--android:orientation="horizontal"-->
+            <!--&gt;-->
+            <!--<LinearLayout-->
+            <!--android:layout_width="2.5sp"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:background="#000"></LinearLayout>-->
+            <!--</LinearLayout>-->
+
+
+            <TextView
+                android:id="@+id/tv_students"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#fff"
+                android:text="@string/vocabulary"
+                android:fontFamily="monospace"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_gravity="center"/>
+            <!--<LinearLayout-->
+            <!--android:layout_weight="0.1"-->
+            <!--android:layout_width="3dp"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:background="#fff"-->
+            <!--android:layout_marginRight="10dp"-->
+            <!--android:orientation="horizontal"-->
+            <!--&gt;-->
+            <!--<LinearLayout-->
+            <!--android:layout_width="2.5sp"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:background="#000"></LinearLayout>-->
+            <!--</LinearLayout>-->
+            <TextView
+                android:id="@+id/tv_academic"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#fff"
+                android:text="@string/grammar"
+                android:textSize="15sp"
+                android:fontFamily="monospace"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_gravity="center"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="2sp"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:layout_weight="1"
+                android:visibility="invisible"
+                android:id="@+id/lyout_reading"
+                android:layout_width="match_parent"
+                android:layout_height="2sp"
+                android:orientation="horizontal"
+                android:background="#AC3A91">
+            </LinearLayout>
+            <LinearLayout
+                android:visibility="invisible"
+                android:layout_weight="1"
+                android:background="#AC3A91"
+                android:id="@+id/lyout_voc"
+                android:layout_width="match_parent"
+                android:layout_height="2sp"
+                android:orientation="horizontal">
+            </LinearLayout>
+            <LinearLayout
+                android:layout_weight="1"
+                android:background="#AC3A91"
+                android:visibility="invisible"
+                android:id="@+id/lyout_gram"
+                android:layout_width="match_parent"
+                android:layout_height="2sp"
+                android:orientation="horizontal">
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <ListView
+        android:id="@+id/lessonsListview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:dividerHeight="8dp"
+        android:listSelector="@drawable/list_selector">
+
+    </ListView>
+
+
+</LinearLayout>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">English with a Click</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn_check">check </string>
+    <string name="reading">Reading </string>
+    <string name="vocabulary">Vocabulary </string>
+    <string name="grammar">Grammar </string>
+    <string name="moreQuery">שאלות נוספות </string>
+    <string name="setlectExam">בחן את עצמך </string>
+    <string name="exercice">תירגול </string>
+    <string name="learnWords">לימוד מילים </string>
+    <string name="speech">תגיד המשפט </string>
+    <string name="search">Search ... </string>
+
+    <string name="pull">גרור  </string>
+    <string name="Sound">קול  </string>
+
+
+    <string-array name="lessons_titles_hebrew_array">
+        <item>שיעור א1</item>
+        <item>שיעור א2</item>
+        <item>שיעור א3</item>
+        <item>שיעור א4</item>
+        <item>שיעור א5</item>
+        <item>שיעור א6</item>
+        <item>שיעור א7</item>
+        <item>שיעור א8</item>
+
+        <item>שיעור 9</item>
+        <item>שיעור 10</item>
+        <item>שיעור 11</item>
+        <item>שיעור 12</item>
+        <item>שיעור 13</item>
+        <item>שיעור 14</item>
+        <item>שיעור 15</item>
+        <item>שיעור 16</item>
+
+        <item>שיעור 17</item>
+        <item>שיעור 18</item>
+        <item>שיעור 19</item>
+        <item>שיעור 20</item>
+        <item>שיעור 21</item>
+        <item>שיעור 22</item>
+        <item>שיעור 23</item>
+        <item>שיעור א24</item>
+
+        <item>שיעור א25</item>
+
+    </string-array>
+
+
+    <string-array name="lessons_descriptions_hebrew_array">
+        <item>אותיות דפוס</item>
+        <item>אותיות כתב</item>
+        <item>עיצורים - 1</item>
+        <item>עיצורים - 2</item>
+        <item>עיצורים - 3</item>
+        <item>תנועות - 1</item>
+        <item>תנועות - 2</item>
+        <item>תנועות - 3</item>
+
+        <item>תנועות - 4</item>
+        <item>TH השילוב</item>
+        <item>SH, CH השילובים</item>
+        <item>PH</item>
+        <item>מיוחדות - Q, W</item>
+        <item>צליל מיוחד - E, R</item>
+        <item>מילים עם GH</item>
+        <item>O, E ניקוד כפול</item>
+
+        <item>SU, NG</item>
+        <item>האות Y</item>
+        <item>O, W</item>
+        <item>מילים יוצאות דופן - 1</item>
+        <item>מילים יוצאות דופן - 2</item>
+        <item>מספרים</item>
+        <item>בחן את עצמך - 1</item>
+        <item>בחן את עצמך - 2</item>
+
+        <item>בחן את עצמך - 3</item>
+
+    </string-array>
+
+
+    <string-array name="lessons_titles_english_array">
+        <item>lesson A one</item>
+        <item>lesson A two</item>
+        <item>lesson A three</item>
+        <item>lesson A four</item>
+        <item>lesson five</item>
+        <item>lesson six</item>
+        <item>lesson seven</item>
+        <item>lesson eight</item>
+
+        <item>lesson nine</item>
+        <item>lesson ten</item>
+        <item>lesson eleven</item>
+        <item>lesson twelve</item>
+        <item>lesson thirtin</item>
+        <item>lesson fourtin</item>
+        <item>lesson fiftin</item>
+        <item>lesson sixteen</item>
+
+        <item>lesson seventen</item>
+        <item>lesson eighteen</item>
+        <item>lesson nineteen</item>
+        <item>lesson twenty</item>
+        <item>lesson twenty one</item>
+        <item>lesson twenty two</item>
+        <item>lesson twenty three</item>
+        <item>lesson A twenty four</item>
+
+        <item>lesson A twenty five</item>
+
+    </string-array>
+
+
+    <string-array name="lessons_first_page_content_array">
+        <item>
+        באנגלית יש 26 אותיות.
+            כמו בעברית, יש אותיות דפוס ואותיות כתב.
+        בשיעור זה נלמד את אותיות הדפוס.
+        </item>
+        <item>
+        באנגלית יש 26 אותיות.
+            כמו בעברית, יש אותיות דפוס ואותיות כתב.
+        בשיעור זה נלמד את אותיות הכתב.
+         </item>
+        <item>lesson A three</item>
+        <item>lesson A four</item>
+        <item>lesson five</item>
+        <item>lesson six</item>
+        <item>lesson seven</item>
+        <item>lesson eight</item>
+
+        <item>lesson nine</item>
+        <item>lesson ten</item>
+        <item>lesson eleven</item>
+        <item>lesson twelve</item>
+        <item>lesson thirtin</item>
+        <item>lesson fourtin</item>
+        <item>lesson fiftin</item>
+        <item>lesson sixteen</item>
+
+        <item>lesson seventen</item>
+        <item>lesson eighteen</item>
+        <item>lesson nineteen</item>
+        <item>lesson twenty</item>
+        <item>lesson twenty one</item>
+        <item>lesson twenty two</item>
+        <item>lesson twenty three</item>
+        <item>lesson A twenty four</item>
+
+        <item>lesson A twenty five</item>
+
+    </string-array>
+
+
+    <string-array name="lessons_words_array">
+
+                <item>
+            A,B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z
+            </item>,
+        <item>
+            a,b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z
+            </item>,
+        <item>
+            Doron, Gad, California, Jack, Finshtein, Hertzel, Ben
+            </item>,
+        <item>
+            Leaha,Nir, Peretz, Kalman, Rachel, center, Miriam, George
+            </item>,
+        <item>
+            Zalman,Yehuda, Victor, Sara, Quibeck, Tomer, Mexico, Washington
+            </item>,
+        <item>
+            Holand,Ester, Sidni, Afrika, puzzle
+            </item>,
+        <item>
+            time,bed, fun, in, bad, here, cute, name
+            </item>,
+        <item>
+            fat,dog, rain, soap, meat, bed
+            </item>,
+        <item>
+
+                </item>,
+        <item>
+            X, Y, Z
+            </item>,
+        <item>
+            X, Y, Z
+            </item>,
+        <item>
+            X, Y, Z
+            </item>,
+        <item>
+            X, Y, Z
+            </item>,
+        <item>
+            X, Y, Z
+            </item>,
+        <item>
+            X, Y, Z
+            </item>,
+        <item>
+            X, Y, Z
+            </item>,
+        <item>
+            X, Y, Z
+            </item>,
+        <item>
+            X, Y, Z
+            </item>,
+        <item>
+            X, Y, Z
+            </item>,
+        <item>
+            X, Y, Z
+            </item>,
+        <item>
+            X, Y, Z
+            </item>,
+        <item>
+            X, Y, Z
+            </item>,
+        <item>
+            X, Y, Z
+            </item>,
+        <item>
+            X, Y, Z
+            </item>,
+
+        <item>
+            Excuse me,
+                My name is David,
+                What is your name?,
+                I come from Israel,
+                I am Jewish,
+                Please go away,
+                Please stop smoking,
+                Where do you come from?,
+                Where is the bus station?,
+                How much does it cost?,
+                Please speak slowly,
+                Thank you very much,
+                Leave me alone,
+                Please give me my change
+            </item>,
+
+        <item>
+            A,B, C
+            </item>,
+        <item>
+            X, Y, Z
+            </item>,
+        <item>
+            X, Y, Z
+            </item>,
+        <item>
+            X, Y, Z
+            </item>
+
+    </string-array>
+
+</resources>

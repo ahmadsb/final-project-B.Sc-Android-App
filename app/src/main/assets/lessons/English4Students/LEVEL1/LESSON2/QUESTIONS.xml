@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+  <Question1>
+    <question>February is the first month of the year.</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question1>
+  <Question2>
+    <question>Spring is from March to May.</question>
+    <correct>0</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question2>
+  <Question3>
+    <question>Autumn is from June to August.</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question3>
+  <Question4>
+    <question>John and Mary go to school on Sunday.</question>
+    <correct>0</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question4>
+  <Question5>
+    <question>Monday is the beginning of the week.</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question5>
+  <Question6>
+    <question>John and Mary go to bed at eleven o'clock.</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question6>
+  <Question7>
+    <question>On Saturday night they went to the cinema.</question>
+    <correct>0</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question7>
+</Questions>

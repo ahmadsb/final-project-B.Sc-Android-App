@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+  <Question>
+    <question>Father is a tall man</question>
+    <correct>0</correct>
+    <answers>
+      <answer>Yes</answer>
+      <answer>No</answer>
+    </answers>
+  </Question>
+  <Question>
+    <question>Father has blue shoes.</question>
+    <correct>1</correct>
+    <answers>
+      <answer>Yes</answer>
+      <answer>No</answer>
+    </answers>
+  </Question>
+  <Question>
+    <question>Father has a brown shirt.</question>
+    <correct>1</correct>
+    <answers>
+      <answer>Yes</answer>
+      <answer>No</answer>
+    </answers>
+  </Question>
+  <Question>
+    <question>Father has blue pants.</question>
+    <correct>0</correct>
+    <answers>
+      <answer>Yes</answer>
+      <answer>No</answer>
+    </answers>
+  </Question>
+</Questions>

@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Words>
+  <word>
+    <Eng>Father</Eng>
+    <EngEnd>Father</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>אבא</Heb>
+    <EngInHeb>פָדְ'ר</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>5</DicNumber>
+    <Arb>الأب</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>brown</Eng>
+    <EngEnd>brown</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>חום</Heb>
+    <EngInHeb>בְּראַוּן</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>4</DicNumber>
+    <Arb>بني</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>has</Eng>
+    <EngEnd>has</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>יש</Heb>
+    <EngInHeb>הֱז</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>6</DicNumber>
+    <Arb>فعل مساعد بدون معنى</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>has</Eng>
+    <EngEnd>has</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>יש</Heb>
+    <EngInHeb>הֱז</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>6</DicNumber>
+    <Arb>فعل مساعد بدون معنى</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>has</Eng>
+    <EngEnd>has</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>יש</Heb>
+    <EngInHeb>הֱז</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>6</DicNumber>
+    <Arb>فعل مساعد بدون معنى</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>and</Eng>
+    <EngEnd>and</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>ו...</Heb>
+    <EngInHeb>אֱנְד</EngInHeb>
+    <PartOfSpeechHeb>
+    </PartOfSpeechHeb>
+    <DicNumber>3</DicNumber>
+    <Arb>و</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>shirt</Eng>
+    <EngEnd>shirt</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>חולצה</Heb>
+    <EngInHeb>שִׁרְט</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>16</DicNumber>
+    <Arb>القميص</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>also</Eng>
+    <EngEnd>also</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>גם</Heb>
+    <EngInHeb>אוֹלסוֹוּ</EngInHeb>
+    <PartOfSpeechHeb>
+    </PartOfSpeechHeb>
+    <DicNumber>1</DicNumber>
+    <Arb>أيضا</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>has</Eng>
+    <EngEnd>has</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>יש</Heb>
+    <EngInHeb>הֱז</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>6</DicNumber>
+    <Arb>فعل مساعد بدون معنى</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>pants</Eng>
+    <EngEnd>pants</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>מכנסיים</Heb>
+    <EngInHeb>פֱּנְטְס</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>14</DicNumber>
+    <Arb>بنطلون</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>So</Eng>
+    <EngEnd>So</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>אז</Heb>
+    <EngInHeb>סוֹוּ</EngInHeb>
+    <PartOfSpeechHeb>
+    </PartOfSpeechHeb>
+    <DicNumber>17</DicNumber>
+    <Arb>إذًا</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>orange</Eng>
+    <EngEnd>orange</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>כתום</Heb>
+    <EngInHeb>אוֹרֲנְג'</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>15</DicNumber>
+    <Arb>البرتقالي</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>and</Eng>
+    <EngEnd>and</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>ו...</Heb>
+    <EngInHeb>אֱנְד</EngInHeb>
+    <PartOfSpeechHeb>
+    </PartOfSpeechHeb>
+    <DicNumber>3</DicNumber>
+    <Arb>و</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+</Words>

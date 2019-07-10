@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Words>
+  <word>
+    <Eng>market</Eng>
+    <EngEnd>market</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>שוק</Heb>
+    <EngInHeb>מָרְקִט</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>22</DicNumber>
+    <Arb>سوق</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>sausage</Eng>
+    <EngEnd>sausages</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>נקניקיה</Heb>
+    <EngInHeb>סוֹסִג'</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>26</DicNumber>
+    <Arb>سجق/نقانق</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>scales</Eng>
+    <EngEnd>scales</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>מאזנים</Heb>
+    <EngInHeb>סְקֵילְז</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>30</DicNumber>
+    <Arb>ميزان</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>exactly</Eng>
+    <EngEnd>exactly</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>בדיוק</Heb>
+    <EngInHeb>אֶגְזֱקְטְלִי</EngInHeb>
+    <PartOfSpeechHeb>other type</PartOfSpeechHeb>
+    <DicNumber>7</DicNumber>
+    <Arb>بالضبط</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>dozen</Eng>
+    <EngEnd>dozen</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>תריסר</Heb>
+    <EngInHeb>דוֹזְן</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>28</DicNumber>
+    <Arb>دزينة</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>gram</Eng>
+    <EngEnd>grams</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>גרם</Heb>
+    <EngInHeb>גְרֱם</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>27</DicNumber>
+    <Arb>غرام</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>bargain</Eng>
+    <EngEnd>bargain</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>מציאה</Heb>
+    <EngInHeb>בָּרְגִן</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>25</DicNumber>
+    <Arb>صفقة</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>merchant</Eng>
+    <EngEnd>merchant</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>סוחר</Heb>
+    <EngInHeb>מֶרְצֲ'נְט</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>5</DicNumber>
+    <Arb>تاجر</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>drop</Eng>
+    <EngEnd>drops</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>טיפה</Heb>
+    <EngInHeb>דְרוֹפּ</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>9</DicNumber>
+    <Arb>قطرة</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>litre</Eng>
+    <EngEnd>litre</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>ליטר</Heb>
+    <EngInHeb>לִטְר</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>4</DicNumber>
+    <Arb>لتر</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>multiply</Eng>
+    <EngEnd>multiply</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>להכפיל</Heb>
+    <EngInHeb>מַלְטִפְּלַי</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>6</DicNumber>
+    <Arb>يضاعف</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>store-house</Eng>
+    <EngEnd>store-house</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>מחסן</Heb>
+    <EngInHeb>סְטוֹר-הַאוּס</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>29</DicNumber>
+    <Arb>مخزن </Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>store-room</Eng>
+    <EngEnd>store-rooms</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>חדר איחסון</Heb>
+    <EngInHeb>סטוֹר-רוּם</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>24</DicNumber>
+    <Arb>غرفة تخزين</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>store</Eng>
+    <EngEnd>store</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>לאחסן</Heb>
+    <EngInHeb>סְטוֹר</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>10</DicNumber>
+    <Arb>يخزن</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>store-keeper</Eng>
+    <EngEnd>store-keeper</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>מחסנאי</Heb>
+    <EngInHeb>סְטוֹר-קִיפְּר</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>1</DicNumber>
+    <Arb>متجر حارس</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>sack</Eng>
+    <EngEnd>sack</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>שק</Heb>
+    <EngInHeb>סֱק</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>8</DicNumber>
+    <Arb>كيس</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>tonne</Eng>
+    <EngEnd>tonnes</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>טון</Heb>
+    <EngInHeb>טַן</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>11</DicNumber>
+    <Arb>طن</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>total</Eng>
+    <EngEnd>total</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>סכום כללי</Heb>
+    <EngInHeb>טוֹוּטְל</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>20</DicNumber>
+    <Arb>مجموع</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>whole</Eng>
+    <EngEnd>whole</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>כל</Heb>
+    <EngInHeb>הוֹוּל</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>23</DicNumber>
+    <Arb>كامل</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>part</Eng>
+    <EngEnd>part</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>חלק</Heb>
+    <EngInHeb>פָּרְט</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>21</DicNumber>
+    <Arb>جزء</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>rest</Eng>
+    <EngEnd>rest</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>שאר</Heb>
+    <EngInHeb>רֶסְט</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>16</DicNumber>
+    <Arb>بقية</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>abroad</Eng>
+    <EngEnd>abroad</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>חוץ לארץ</Heb>
+    <EngInHeb>אֲבְּרוֹד</EngInHeb>
+    <PartOfSpeechHeb>other type</PartOfSpeechHeb>
+    <DicNumber>2</DicNumber>
+    <Arb>خارج البلاد</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>plenty</Eng>
+    <EngEnd>plenty</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>שפע</Heb>
+    <EngInHeb>פְּלֶנְטִי</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>3</DicNumber>
+    <Arb>الكثير</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>large</Eng>
+    <EngEnd>large</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>גדול</Heb>
+    <EngInHeb>לָרְג'</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>14</DicNumber>
+    <Arb>كبير</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>divide</Eng>
+    <EngEnd>divide</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>לחלק</Heb>
+    <EngInHeb>דִוַיד</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>12</DicNumber>
+    <Arb>يقسّم</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>account</Eng>
+    <EngEnd>accounts</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>דין וחשבון</Heb>
+    <EngInHeb>אֲקַאוּנְט</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>15</DicNumber>
+    <Arb>حساب</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>dishonest</Eng>
+    <EngEnd>dishonest</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>לא ישר</Heb>
+    <EngInHeb>דִסוֹנֲסְט</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>13</DicNumber>
+    <Arb>غير أمين</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>cheat</Eng>
+    <EngEnd>cheats</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>לרמות</Heb>
+    <EngInHeb>צִ'יט</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>17</DicNumber>
+    <Arb>يخدع</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>honest</Eng>
+    <EngEnd>honest</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>ישר</Heb>
+    <EngInHeb>אוֹנֲסְט</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>18</DicNumber>
+    <Arb>صادق</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>all</Eng>
+    <EngEnd>all</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>כל</Heb>
+    <EngInHeb>אוֹל</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>19</DicNumber>
+    <Arb>الجميع/الكل</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+</Words>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+  <Question1>
+    <question>There are two boys in the picture.</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question1>
+  <Question2>
+    <question>Pupils play in a classroom.</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question2>
+  <Question3>
+    <question>The boys like to study mathematics.</question>
+    <correct>0</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question3>
+  <Question4>
+    <question>The teacher is sitting in the classroom. </question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question4>
+</Questions>

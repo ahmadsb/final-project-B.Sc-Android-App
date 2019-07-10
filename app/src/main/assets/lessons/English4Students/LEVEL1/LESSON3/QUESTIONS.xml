@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+  <Question1>
+    <question>Anne and Sally are in the kitchen.</question>
+    <correct>0</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question1>
+  <Question2>
+    <question>Sally is cooking a fish.</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question2>
+  <Question3>
+    <question>Anne is making some jam.</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question3>
+  <Question4>
+    <question>Mr and Mrs Smith are in the living room</question>
+    <correct>0</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question4>
+  <Question5>
+    <question>Mr Smith is drinking coffee.</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question5>
+  <Question6>
+    <question>John is eating a piece of cake.</question>
+    <correct>0</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question6>
+  <Question7>
+    <question>Catherine has drunk all her milk.</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>Yes</answer1>
+      <answer2>No</answer2>
+    </Answers>
+  </Question7>
+</Questions>

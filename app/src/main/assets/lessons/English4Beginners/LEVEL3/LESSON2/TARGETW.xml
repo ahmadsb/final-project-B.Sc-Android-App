@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Words>
+  <word>
+    <Eng>study</Eng>
+    <EngEnd>study</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>ללמוד</Heb>
+    <EngInHeb>סְטַדִי</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>1</DicNumber>
+    <Arb>يدرس</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>holiday</Eng>
+    <EngEnd>holiday</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>חופש</Heb>
+    <EngInHeb>הוֹלִדֵי</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>2</DicNumber>
+    <Arb>عطلة</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>some</Eng>
+    <EngEnd>Some</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>כמה\קצת</Heb>
+    <EngInHeb>סַם</EngInHeb>
+    <PartOfSpeechHeb>
+    </PartOfSpeechHeb>
+    <DicNumber>4</DicNumber>
+    <Arb>بعض</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>their</Eng>
+    <EngEnd>their</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>שלהם</Heb>
+    <EngInHeb>דֵ'ר</EngInHeb>
+    <PartOfSpeechHeb>
+    </PartOfSpeechHeb>
+    <DicNumber>5</DicNumber>
+    <Arb>لهم</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>nobody</Eng>
+    <EngEnd>nobody</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>אף אחד</Heb>
+    <EngInHeb>נוֹוּבַּדִי</EngInHeb>
+    <PartOfSpeechHeb>
+    </PartOfSpeechHeb>
+    <DicNumber>3</DicNumber>
+    <Arb>لا أحد</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>every</Eng>
+    <EngEnd>Every</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>כל</Heb>
+    <EngInHeb>אֶבְרִי</EngInHeb>
+    <PartOfSpeechHeb>
+    </PartOfSpeechHeb>
+    <DicNumber>6</DicNumber>
+    <Arb>كل</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>holiday</Eng>
+    <EngEnd>holiday</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>חופש</Heb>
+    <EngInHeb>הוֹלִדֵי</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>2</DicNumber>
+    <Arb>عطلة</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>or</Eng>
+    <EngEnd>Or</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>או</Heb>
+    <EngInHeb>אוֹר</EngInHeb>
+    <PartOfSpeechHeb>
+    </PartOfSpeechHeb>
+    <DicNumber>7</DicNumber>
+    <Arb>أو</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+</Words>

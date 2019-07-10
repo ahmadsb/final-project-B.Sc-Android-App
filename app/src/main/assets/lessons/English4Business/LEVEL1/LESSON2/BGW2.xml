@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Translations>
+  <Translation>
+    <EngTranslation>
+      <Eng>publication</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>פרסום</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>نشر كتاب</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>following</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>בהמשך ל</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>إتباع</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>enclosed</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מצורף </Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يرفق في رسالة, منطوي على</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>henceforth</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מעתה ואילך</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>من الآن فصاعدا</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>referred to</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>בהתייחס ל</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>المشار إليه</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>administrative</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>ניהולי</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>إداري, حكومي</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>coordinating</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מתאם</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>ينسق</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>responsibilities</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>תחומי אחריות</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>المسؤوليات</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>period</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>תקופה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>فترة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>fee</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>תשלום</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>رسوم </Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>royalties</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>תמלוגים</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>مبلغ يدفع للمؤلف</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>required</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>נדרש</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>مطلوب</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>manuscript</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>כתב יד</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>مخطوطة كتابية</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>assume responsibility</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>יהיה אחראי על</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يتحمل المسؤولية</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>affected</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מתקבלים  בפועל</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>متأثر</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>agreed upon</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מוסכם על</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>متفق عليه</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>renewal</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>חידוש</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>تجديد, تجدد</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>on the part</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מצד</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>من جانب</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>parties</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>צדדים</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>الأطراف</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>releases</Eng>
+      <Eng>release</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לשחרר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>نشر، أطلق سراح</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>Publishing Company</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>הוצאה לאור</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>شركة النشر</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>contract</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>חוזה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>عقد, تعاقد, اتفاقية</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>As per </Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>בהקשר ל...</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>حسب</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>conversation</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>שיחה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>محادثة, حديث</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>payments</Eng>
+      <Eng>payment</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>תשלום</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>المدفوعات</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>following</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>הבא</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>إتباع</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>in the event</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>במקרה של ...</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>في الحدث</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>profits</Eng>
+      <Eng>profit</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>רווח</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>الأرباح</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>previously</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מראש</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>سابقا</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>agreed upon</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>סוכם עליו</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>متفق عليه</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>original</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מקורי</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>أ صلي</Arb>
+    </ArbTranslation>
+  </Translation>
+</Translations>

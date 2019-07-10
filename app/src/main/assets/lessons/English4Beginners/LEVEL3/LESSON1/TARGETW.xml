@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Words>
+  <word>
+    <Eng>bus</Eng>
+    <EngEnd>bus</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>אוטובוס</Heb>
+    <EngInHeb>בַּס</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>1</DicNumber>
+    <Arb>حافلة/باص</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>child</Eng>
+    <EngEnd>children</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>ילד או ילדה</Heb>
+    <EngInHeb>צַ'ילְד</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>3</DicNumber>
+    <Arb>طفل</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>child</Eng>
+    <EngEnd>children</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>ילד או ילדה</Heb>
+    <EngInHeb>צַ'ילְד</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>3</DicNumber>
+    <Arb>طفل</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>why</Eng>
+    <EngEnd>Why</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>למה</Heb>
+    <EngInHeb>ווַי</EngInHeb>
+    <PartOfSpeechHeb>
+    </PartOfSpeechHeb>
+    <DicNumber>5</DicNumber>
+    <Arb>لماذا</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>to</Eng>
+    <EngEnd>to</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>ל...</Heb>
+    <EngInHeb>טוּ</EngInHeb>
+    <PartOfSpeechHeb>
+    </PartOfSpeechHeb>
+    <DicNumber>14</DicNumber>
+    <Arb>إلى</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>yes</Eng>
+    <EngEnd>Yes</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>כן</Heb>
+    <EngInHeb>יֶס</EngInHeb>
+    <PartOfSpeechHeb>
+    </PartOfSpeechHeb>
+    <DicNumber>6</DicNumber>
+    <Arb>نعم</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>man</Eng>
+    <EngEnd>man</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>איש</Heb>
+    <EngInHeb>מֱנ</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>8</DicNumber>
+    <Arb>رجل</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>man</Eng>
+    <EngEnd>man</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>איש</Heb>
+    <EngInHeb>מֱנ</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>8</DicNumber>
+    <Arb>رجل</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>man</Eng>
+    <EngEnd>man</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>איש</Heb>
+    <EngInHeb>מֱנ</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>8</DicNumber>
+    <Arb>رجل</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>driver</Eng>
+    <EngEnd>driver</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>נהג</Heb>
+    <EngInHeb>דְרַיבְר</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>11</DicNumber>
+    <Arb>سائق</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>driver</Eng>
+    <EngEnd>driver</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>נהג</Heb>
+    <EngInHeb>דְרַיבְר</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>11</DicNumber>
+    <Arb>سائق</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>hat</Eng>
+    <EngEnd>hat</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>כובע</Heb>
+    <EngInHeb>הֱט</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>12</DicNumber>
+    <Arb>قبعة</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>of</Eng>
+    <EngEnd>of</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>של</Heb>
+    <EngInHeb>אַב</EngInHeb>
+    <PartOfSpeechHeb>
+    </PartOfSpeechHeb>
+    <DicNumber>15</DicNumber>
+    <Arb>من</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>drive</Eng>
+    <EngEnd>drives</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>לנהוג</Heb>
+    <EngInHeb>דְרַיב</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>13</DicNumber>
+    <Arb>يسوق</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+</Words>

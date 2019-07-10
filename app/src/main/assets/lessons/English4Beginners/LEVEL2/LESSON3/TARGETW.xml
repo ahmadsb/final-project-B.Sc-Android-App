@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Words>
+  <word>
+    <Eng>but</Eng>
+    <EngEnd>but</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>אבל</Heb>
+    <EngInHeb>בַּט</EngInHeb>
+    <PartOfSpeechHeb>
+    </PartOfSpeechHeb>
+    <DicNumber>1</DicNumber>
+    <Arb>لكن</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>like</Eng>
+    <EngEnd>like</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>כמו</Heb>
+    <EngInHeb>לַיק</EngInHeb>
+    <PartOfSpeechHeb>
+    </PartOfSpeechHeb>
+    <DicNumber>8</DicNumber>
+    <Arb>مثل</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>they</Eng>
+    <EngEnd>They</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>הם</Heb>
+    <EngInHeb>דֵ'</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>7</DicNumber>
+    <Arb>هم</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>have</Eng>
+    <EngEnd>have</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>יש</Heb>
+    <EngInHeb>הֱב</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>2</DicNumber>
+    <Arb>يملك</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>both</Eng>
+    <EngEnd>Both</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>שניהם</Heb>
+    <EngInHeb>בּוֹוּת'</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>6</DicNumber>
+    <Arb>كلاهما</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>have</Eng>
+    <EngEnd>have</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>יש</Heb>
+    <EngInHeb>הֱב</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>2</DicNumber>
+    <Arb>يملك</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+</Words>

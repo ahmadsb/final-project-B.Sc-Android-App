@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+  <Question1>
+    <question>a</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question1>
+  <Question2>
+    <question>b</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question2>
+  <Question3>
+    <question>c</question>
+    <correct>0</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question3>
+  <Question4>
+    <question>d</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question4>
+  <Question5>
+    <question>e</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question5>
+  <Question6>
+    <question>f</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question6>
+  <Question7>
+    <question>g</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question7>
+  <Question8>
+    <question>h</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question8>
+  <Question9>
+    <question>i</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question9>
+  <Question10>
+    <question>j</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question10>
+  <Question11>
+    <question>k</question>
+    <correct>0</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question11>
+  <Question12>
+    <question>l</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question12>
+  <Question13>
+    <question>m</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question13>
+  <Question14>
+    <question>n</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question14>
+  <Question15>
+    <question>o</question>
+    <correct>0</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question15>
+  <Question16>
+    <question>p</question>
+    <correct>0</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question16>
+  <Question17>
+    <question>q</question>
+    <correct>1</correct>
+    <Answers>
+      <answer>כמו האותיות הגדולות</answer>
+      <answer>צורה אחרת</answer>
+    </Answers>
+  </Question17>
+  <Question18>
+    <question>r</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question18>
+  <Question19>
+    <question>s</question>
+    <correct>0</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question19>
+  <Question20>
+    <question>t</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question20>
+  <Question21>
+    <question>u</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question21>
+  <Question22>
+    <question>v</question>
+    <correct>0</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question22>
+  <Question23>
+    <question>w</question>
+    <correct>0</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question23>
+  <Question24>
+    <question>x</question>
+    <correct>0</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question24>
+  <Question25>
+    <question>y</question>
+    <correct>1</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question25>
+  <Question26>
+    <question>z</question>
+    <correct>0</correct>
+    <Answers>
+      <answer1>כמו האותיות הגדולות</answer1>
+      <answer2>צורה אחרת</answer2>
+    </Answers>
+  </Question26>
+</Questions>

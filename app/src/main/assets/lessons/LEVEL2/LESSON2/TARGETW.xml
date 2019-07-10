@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Words>
+  <word>
+    <Eng>Mother</Eng>
+    <EngEnd>Mother</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>אמא</Heb>
+    <EngInHeb>מַדְ'ר</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>3</DicNumber>
+    <Arb>أم</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>not</Eng>
+    <EngEnd>not</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>לא</Heb>
+    <EngInHeb>נוֹט</EngInHeb>
+    <PartOfSpeechHeb>
+    </PartOfSpeechHeb>
+    <DicNumber>1</DicNumber>
+    <Arb>لا</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>short</Eng>
+    <EngEnd>short</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>נמוך\נמוכה\קצר\קצרה</Heb>
+    <EngInHeb>שׁוֹרְט</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>4</DicNumber>
+    <Arb>قصير</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>she</Eng>
+    <EngEnd>She</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>היא</Heb>
+    <EngInHeb>שִׁי</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>5</DicNumber>
+    <Arb>هي</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>has</Eng>
+    <EngEnd>has</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>יש</Heb>
+    <EngInHeb>הֱז</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>14</DicNumber>
+    <Arb>فعل مساعد بدون معنى</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>shoe</Eng>
+    <EngEnd>shoes</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>נעל</Heb>
+    <EngInHeb>שׁוּ</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>17</DicNumber>
+    <Arb>حذاء</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>this</Eng>
+    <EngEnd>This</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>זה\הזה</Heb>
+    <EngInHeb>דִ'ס</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>10</DicNumber>
+    <Arb>هذا</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>short</Eng>
+    <EngEnd>short</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>נמוך\נמוכה\קצר\קצרה</Heb>
+    <EngInHeb>שׁוֹרְט</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>4</DicNumber>
+    <Arb>قصير</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>blue</Eng>
+    <EngEnd>blue</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>כחול</Heb>
+    <EngInHeb>בְּלוּ</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>8</DicNumber>
+    <Arb>أزرق</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>like</Eng>
+    <EngEnd>like</EngEnd>
+    <PartOfSpeechEng>other type</PartOfSpeechEng>
+    <Heb>כמו</Heb>
+    <EngInHeb>לַיק</EngInHeb>
+    <PartOfSpeechHeb>
+    </PartOfSpeechHeb>
+    <DicNumber>2</DicNumber>
+    <Arb>مثل</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>blue</Eng>
+    <EngEnd>blue</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>כחול</Heb>
+    <EngInHeb>בְּלוּ</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>8</DicNumber>
+    <Arb>أزرق</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+  <word>
+    <Eng>shoe</Eng>
+    <EngEnd>shoes</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>נעל</Heb>
+    <EngInHeb>שׁוּ</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>17</DicNumber>
+    <Arb>حذاء</Arb>
+    <EngInArb>
+    </EngInArb>
+  </word>
+</Words>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+  <Question>
+    <question>Mother is a tall woman</question>
+    <correct>1</correct>
+    <answers>
+      <answer>Yes</answer>
+      <answer>No</answer>
+    </answers>
+  </Question>
+  <Question>
+    <question>Mother has brown shoes</question>
+    <correct>0</correct>
+    <answers>
+      <answer>Yes</answer>
+      <answer>No</answer>
+    </answers>
+  </Question>
+  <Question>
+    <question>Mother has an orange shirt like Father</question>
+    <correct>0</correct>
+    <answers>
+      <answer>Yes</answer>
+      <answer>No</answer>
+    </answers>
+  </Question>
+  <Question>
+    <question>Mother has a red skirt</question>
+    <correct>1</correct>
+    <answers>
+      <answer>Yes</answer>
+      <answer>No</answer>
+    </answers>
+  </Question>
+</Questions>

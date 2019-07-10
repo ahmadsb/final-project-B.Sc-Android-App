@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toast_word_layout_root"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/wordInToast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="the word"
+        android:layout_gravity="center_horizontal"
+        android:padding="5dp"
+        android:textSize="90dp"
+        android:textColor="#33CC33"
+        android:background="#6666FF"
+        android:layout_alignParentRight="true"
+        />
+
+
+</LinearLayout>

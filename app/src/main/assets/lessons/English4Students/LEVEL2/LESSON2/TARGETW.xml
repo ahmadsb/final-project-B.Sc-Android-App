@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Words>
+  <word>
+    <Eng>flat</Eng>
+    <EngEnd>flats</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>דירה</Heb>
+    <EngInHeb>פְלֱט</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>24</DicNumber>
+    <Arb>شقة</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>let</Eng>
+    <EngEnd>lets</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>להשכיר</Heb>
+    <EngInHeb>לֶט</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>10</DicNumber>
+    <Arb>يدع/يسمح</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>outside</Eng>
+    <EngEnd>outside</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>חיצוניות</Heb>
+    <EngInHeb>אַוּטְסַיד</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>13</DicNumber>
+    <Arb>خارج</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>inside</Eng>
+    <EngEnd>inside</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>פנימיות</Heb>
+    <EngInHeb>אִנְסַיד</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>21</DicNumber>
+    <Arb>داخل</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>staircase</Eng>
+    <EngEnd>staircase</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>גרם מדרגות</Heb>
+    <EngInHeb>סְטֵרקֵיס</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>11</DicNumber>
+    <Arb>بيت درج</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>fan</Eng>
+    <EngEnd>fans</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>מאורר</Heb>
+    <EngInHeb>פֱן</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>17</DicNumber>
+    <Arb>مروحة</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>switch</Eng>
+    <EngEnd>switches</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>מתג</Heb>
+    <EngInHeb>סְוִץ'</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>14</DicNumber>
+    <Arb>مفتاح كهربائي</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>switch</Eng>
+    <EngEnd>switch</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>להדליק (on) </Heb>
+    <EngInHeb>סְוִץ'</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>18</DicNumber>
+    <Arb>يشغـّل</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>refrigerator</Eng>
+    <EngEnd>refrigerator</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>מקרר</Heb>
+    <EngInHeb>רִפְרִגֲ'רֵיטְר</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>6</DicNumber>
+    <Arb>ثلاجة</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>fresh</Eng>
+    <EngEnd>fresh</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>טרי</Heb>
+    <EngInHeb>פְרֶש</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>30</DicNumber>
+    <Arb>جديد/طازج</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>armchair</Eng>
+    <EngEnd>armchairs</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>כורסא</Heb>
+    <EngInHeb>אַרְמְצֵ'ר</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>22</DicNumber>
+    <Arb>أريكة</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>bookcase</Eng>
+    <EngEnd>bookcase</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>ארון ספרים</Heb>
+    <EngInHeb>בֻּקֵיס</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>1</DicNumber>
+    <Arb>خزانة الكتب</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>vase</Eng>
+    <EngEnd>vases</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>אגרטל</Heb>
+    <EngInHeb>בֵיס</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>4</DicNumber>
+    <Arb>مزهرية</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>ashtray</Eng>
+    <EngEnd>ashtrays</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>מאפרה</Heb>
+    <EngInHeb>אֱשְטְרֵי</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>2</DicNumber>
+    <Arb>مكتة</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>curtain_rod</Eng>
+    <EngEnd>curtain rods</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>מוט-וילון</Heb>
+    <EngInHeb>קֶרְטִן-רוֹד</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>23</DicNumber>
+    <Arb>مقبض لفتح الستارة</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>painting</Eng>
+    <EngEnd>paintings</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>ציור</Heb>
+    <EngInHeb>פֵּינְטִנְג</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>3</DicNumber>
+    <Arb>لوحة/رسمة</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>picture frame</Eng>
+    <EngEnd>picture frames</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>מסגרת</Heb>
+    <EngInHeb>פִּקְצֲ'ר-פְרֵים</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>15</DicNumber>
+    <Arb>إطار الصورة</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>candle</Eng>
+    <EngEnd>candles</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>נר</Heb>
+    <EngInHeb>קֱנְדְל</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>16</DicNumber>
+    <Arb>شمعة</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>drawer</Eng>
+    <EngEnd>drawers</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>מגירה</Heb>
+    <EngInHeb>דְרוֹר</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>27</DicNumber>
+    <Arb>جارور</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>torch</Eng>
+    <EngEnd>torch</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>פנס</Heb>
+    <EngInHeb>טוֹרְץ'</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>9</DicNumber>
+    <Arb>شعلة</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>spare</Eng>
+    <EngEnd>spare</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>נוסף</Heb>
+    <EngInHeb>סְפֵּר</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>25</DicNumber>
+    <Arb>إضافي</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>battery</Eng>
+    <EngEnd>batteries</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>סוללה</Heb>
+    <EngInHeb>בֱּטֲרִי</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>26</DicNumber>
+    <Arb>البطارية</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>fan</Eng>
+    <EngEnd>fan</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>לאורר</Heb>
+    <EngInHeb>פֱן</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>29</DicNumber>
+    <Arb>يشغل الهواء</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>cool</Eng>
+    <EngEnd>cool</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>קריר</Heb>
+    <EngInHeb>קוּל</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>31</DicNumber>
+    <Arb>بارد</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>mirror</Eng>
+    <EngEnd>mirror</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>מראה</Heb>
+    <EngInHeb>מִרְר</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>28</DicNumber>
+    <Arb>مرآة</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>arched</Eng>
+    <EngEnd>arched</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>קמור</Heb>
+    <EngInHeb>אַרְצְ'ט</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>20</DicNumber>
+    <Arb>مقنطر</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>shave</Eng>
+    <EngEnd>shave</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>להתגלח</Heb>
+    <EngInHeb>שֵיב</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>5</DicNumber>
+    <Arb>يحلق الذقن</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>shave</Eng>
+    <EngEnd>shave</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>להתגלח</Heb>
+    <EngInHeb>שֵיב</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>5</DicNumber>
+    <Arb>يحلق الذقن</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>smooth</Eng>
+    <EngEnd>smooth</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>חלק</Heb>
+    <EngInHeb>סְמוּד'</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>32</DicNumber>
+    <Arb>ناعم</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+  <word>
+    <Eng>toothpaste</Eng>
+    <EngEnd>toothpaste</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>משחת שיניים</Heb>
+    <EngInHeb>טוּתְ'פֵּיסְט</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>12</DicNumber>
+    <Arb>معجون أسنان</Arb>
+    <EngInArb>
+    </EngInArb>
+    <frnc>#fr#</frnc>
+    <ENGINFRNC>#fr#</ENGINFRNC>
+  </word>
+</Words>

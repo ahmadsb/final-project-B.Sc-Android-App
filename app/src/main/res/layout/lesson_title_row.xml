@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="10"
+     >
+
+<android.support.v7.widget.CardView
+    android:layout_width="match_parent"
+    android:layout_height="100sp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/lessonTitle"
+            android:layout_width="290sp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/imageViewLesson"
+            android:paddingTop="5dp"
+            android:text="שעור 99"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/lessonDescription"
+            android:layout_width="290sp"
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentBottom="true"
+            android:layout_toEndOf="@+id/imageViewLesson"
+            android:padding="2dp"
+            android:text="אותיות דפוס גדולות"
+            android:textColor="#3b5998"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+
+        <ImageView
+            android:id="@+id/imageViewLesson"
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/logoleson"
+             />
+
+        <View
+            android:id="@+id/view"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:background="@android:color/darker_gray" />
+    </RelativeLayout>
+</android.support.v7.widget.CardView>
+</RelativeLayout>

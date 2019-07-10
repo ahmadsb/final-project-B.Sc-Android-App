@@ -1,0 +1,511 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Translations>
+  <Translation>
+    <EngTranslation>
+      <Eng>hot</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>חם</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>حار, ساخن, حامي, حام, جديد, دافئ, متحمس, طازج, حريف, متبل, محب للجنس, لاذع</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>cold</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>קר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>برد, زكام, فاقد الوعي, ضعيف, محروم من المنافع</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>because</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מפני ש...</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>بسبب </Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>light</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>היום/מאיר‎</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>ضوء, إضاءة, الأضواء, منارة, ضوء النهار, لمبة, الشيء الخفيف, نافذة, نبراس, ولعة, نار, ضياء النهار, مصباح كهربائي</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>to school</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לבית-ספר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>إلى المدرسة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>play games</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לשחק משחקים</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>لعب ألعاب</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>home</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>הביתה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>منزل, بيت</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>cinema</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>קןלנוע</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>السينما</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>the</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>ה...</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>ال, لام التعريف</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>January</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>ינואר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يناير, كانون الثاني </Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>December</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>דצמבר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>ديسمبر, كانون الاول</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>February</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>פברואר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>فبراير, شباط</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>to</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>עד</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>إلى</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>from</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מ...</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>من</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>March</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מרץ</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb> مارس, آذار</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>May</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מאי</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>قد, ربما</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>June</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>יוני</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يونيو, حزيران</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>August</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>אוגוסט</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>أغسطس, آب</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>September</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>ספטמבר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>سبتمبر, أيلول</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>November</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>נובמבר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>نوفمبر, تشرين الثاني</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>They</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>הם</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>هم, هن</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>got up</Eng>
+      <Eng>get up</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לקום</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>نهض </Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>to</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>ל...</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>إلى</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>school</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>בית ספר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb> مدرسة </Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>again</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>שוב</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>ثانية, مرة أخرى</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>Now</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>עכשיו</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>الآن</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>at school</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>בבית הספר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>في المدرسة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>at </Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>ב...(שעה)</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>في</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>twenty </Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>עשרים</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>عشرون</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>past</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>אחרי</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>الماضي, زمن الماضي</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>one</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>אחד</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>واحد</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>go</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>ללכת</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يذهب</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>And</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>ו...</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>و, أيضا, واو العطف</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>when</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מתי</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb> متى</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>go to</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>ללכת ל...</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يذهب غلى</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>bed</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מיתה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>سرير</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>nine</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>תשע</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>تسعة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>went</Eng>
+      <Eng>go</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>ללכת</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>ذهب ، انتقل</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>its</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>שלה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>لها, له</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>ago</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לפני</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>منذ, في الماضي, ماض</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>going to</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>(הופך לזמן עתיד)</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>الذهاب الى</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>What</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>ماذا</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>is</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>(להיות)</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>فعل مساعد</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>eat</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לאכול</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يأكل</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>their</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>שלהם</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>لهم, لهن</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>seven</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>שבע</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>سبعة, سبع</Arb>
+    </ArbTranslation>
+  </Translation>
+</Translations>

@@ -1,0 +1,870 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Translations>
+  <Translation>
+    <EngTranslation>
+      <Eng>rate</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb> שער</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>معدل, سعر, نسبة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>profit</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb> רווח</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>ربح, مكسب, الفائدة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>exchange</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb> שער חליפין</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>تبادل, صرف</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>vary</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb> משתנה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>تفاوت, تغير, تنوع, اختلف, نوع</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>particular</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb> מסוים</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>خاصة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>overcharge</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb> לדרוש מחיר גבוה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>ثمن فاحش</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>lends</Eng>
+      <Eng>lend</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb> להלוות</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يقرض ، إقراض</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>wholesalers</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb> סיטונאים</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>بائعي</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>sum</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb> סכום</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>مجموع, مبلغ من المال</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>seize</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb> לתפוס</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يحجز, ينتهز, يستولى</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>goods</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb> סחורות</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>بضائع, بضاعة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>dishonest</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb> לא הגון, לא ישר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>غير أمين, غير شريف</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>borrow</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb> ללוות</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يستقرض، يستعير</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>customers</Eng>
+      <Eng>customer</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לקוח</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>زبائن</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>form</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>צורה </Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>شكل, استمارة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>notes</Eng>
+      <Eng>note</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>שטר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يلاحظ ، ملاحظة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>coins</Eng>
+      <Eng>coin</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מטבע</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>قطع نقدية ، عملة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>foreign</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>זר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>أجنبي</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>mostly</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>בעיקר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>عموما, في الأعم</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>lower</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>יותר נמוך</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>الأسفل</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>higher</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>יותר גבוה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>أعلى واسمى من</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>rate</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>תעריף</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>معدل, سعر, نسبة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>in order</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>בכדי </Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>مُرتب, منتظم</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>without</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>בלעדיו</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>بدون</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>rates</Eng>
+      <Eng>rate</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>תעריף</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>معدلات ، ومعدل</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>tries</Eng>
+      <Eng>try</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לנסות</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يحاول ، في محاولة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>as much as possible</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>עד כמה שאפשר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>قدر الإمكان</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>buy</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לקנות</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>شراء, صفقة, يشتري</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>sell</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>למכור</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يبيع</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>although</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>למרות ש...</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>رغم أن, مع ان</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>always</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>תמיד</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>دائما, أبدا</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>always</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>תמיד</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>دائما, أبدا</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>careful</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>זהיר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>دقيق, حذر, شديد الحرص</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>reputation</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>שם של...</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>سمعة,  شهرة, صيت</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>dishonesty</Eng>
+      <Eng>dishonest</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>בילתי מהימן</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>خيانة الأمانة ، شريفة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>Nor</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>וגם לא...</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>ولا</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>lose</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>להפסיד</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>فقد, خسر, أضاع</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>tables</Eng>
+      <Eng>table</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>טבלה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>الجداول ، طاولة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>pounds</Eng>
+      <Eng>pound</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>המטבע הבריטי</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>جنيه</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>short periods</Eng>
+      <Eng>short period</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>תקופה קצרה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>فترات قصيرة ، فترة قصيرة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>mostly</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לרוב</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>عموما, في الأعم</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>businessmen</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>אנשי עסקים</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>رجال الأعمال</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>bought</Eng>
+      <Eng>buy</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לקנות</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>اشترى ، شراء</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>goods</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מוצרים למכירה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>بضائع, بضاعة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>earned</Eng>
+      <Eng>earn</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>להרויח</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>حصل ، وكسب</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>sign</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לחתום</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>علامة, إشارة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>lender</Eng>
+      <Eng>lend</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>להלוות</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>المقرض </Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>interest</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>ריבית</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>مصلحة, اهتمام, فائدة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>borrowed</Eng>
+      <Eng>borrow</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>ללוות</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>المقترض ، والاقتراض</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>certain</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מסוים</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>معين, مؤكد, متأكد</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>In this way</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>בדרך זו</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>بهذه الطريقة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>remain</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>להישאר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>بقايا، يبقى</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>for long</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לאורך זמן</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>لفترة طويلة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>sometimes</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מדי פעם</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>أحيانا, بين الفينة و الفينة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>as much</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>באותה מידה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>قدر</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>as the amount </Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>כמו הכמות</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>باعتباره الكمية</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>clever</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>נבון</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>ذكي</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>value</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>ערך</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>قيمة, أهمية, تقدير</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>shop</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>חנות</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>متجر, دكان</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>often</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לעיתים קרובות</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>غالبا, كثيرا ما, أحيانا كثيرة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>mistakes</Eng>
+      <Eng>mistake</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>טעות</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>الأخطاء ، خطأ</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>whom</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>עם מי ש...</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>الذي, من, التي</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>about</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>בקשר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>حوالي, نحو, تقريبا</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>For every</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>על כל </Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>لكل</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>accepts</Eng>
+      <Eng>accept</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לקבל </Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يقبل ، قبول</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>always</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>תמיד</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>دائما, أبدا</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>based</Eng>
+      <Eng>base</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לבסס</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يستند إلى قاعدة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>reasons</Eng>
+      <Eng>reason</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>סיבה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>الأسباب ، والسبب</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>complicated</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מסובך</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>معقد</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>unless</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>אלא אם כן</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>إلا إذا</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>profitably</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>באופן רווחי</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>نحو مكسب</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>suffer</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לסבול</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يعانى</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>losses</Eng>
+      <Eng>loss</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>הפסד</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>الخسائر ، وفقدان</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>Occasionally</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מידי פעם</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>أحيانا, بين حين وآخر</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>finds</Eng>
+      <Eng>find</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>למצוא</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يجد</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>never</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לעולם</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>أبدا, قط, مطلقا</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>wait long</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לחכות הרבה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>الانتظار الطويل</Arb>
+    </ArbTranslation>
+  </Translation>
+</Translations>

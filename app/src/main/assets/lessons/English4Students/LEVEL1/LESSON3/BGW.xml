@@ -1,0 +1,460 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Translations>
+  <Translation>
+    <EngTranslation>
+      <Eng>midday</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>צהרים</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>منتصف النهار</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>jars</Eng>
+      <Eng>jar</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>צנצן</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>وعاء</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>table</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>שלחן</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>طاولة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>living-room</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>סלון</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>غرفة المعيشة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>drinking</Eng>
+      <Eng>drink</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לשתות</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>الشرب، يشرب</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>because</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>בגלל</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>بسبب </Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>breakfast</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>ארוחת בקר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>إفطار, فطور</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>drunk</Eng>
+      <Eng>drink</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לשתות</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يشرب ، وشرب</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>are in the</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>נמצאות בתוך ה...</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>هم في</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>big </Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>גדול</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>كبير</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>some </Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מעט</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>بضع</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>put </Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לשים</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يضع</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>on</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>על</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>على</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>them</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>אותם</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>هم, هن</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>now</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>עכשיו</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>الآن, حالا, توا, في هذه اللحظة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>a little</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מעט </Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>قليلا, قليل</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>too</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>גם כן</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>أيضا, كذلك, زيادة على, علاوة على ذلك</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>those</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>ההם</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>أولئك, هم, هن</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>very</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מאד</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>جدا</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>because</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>בגלל</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>بسبب </Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>in it</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>בתוכה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>في ذلك</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>a lot of</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>הרבה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>كثيرا من</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>There are</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>יש</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يوجد</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>some</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מעט</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>بضع</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>big</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>גדול</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>كبير</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>kitchen</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מטבח</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>مطبخ</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>five</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>חמש</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>خمسة, خمس</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>eight</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>שמונה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>ثمانية</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>near </Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>ליד</Heb>
+      <Heb>קרוב</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>قرب, بجانب</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>There is</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>יש </Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يوجد هنالك</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>has got </Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>יש לה</Heb>
+      <Heb>לו</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>قد حصل</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>eating</Eng>
+      <Eng>eat</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לאכול</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يأكل</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>What</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>ماذا</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>very</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מאד</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>جدا</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>6 o'clock</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>שעה שש</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>الساعة 6:00</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>glass</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>כוס...</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>زجاج, كأس</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>No</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לא</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>لا أحد, ما من احد</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>Has</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>(פועל עזר)</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>قد</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>going to</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>(הופך לזמן עתיד)</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>الذهاب الى</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>has</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>(פועל עזר)</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>قد</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>will be</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>יהיה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>سوف</Arb>
+    </ArbTranslation>
+  </Translation>
+</Translations>

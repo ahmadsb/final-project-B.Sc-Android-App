@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Words>
+  <word>
+    <Eng>cookery</Eng>
+    <EngEnd>cookery</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>בישול</Heb>
+    <EngInHeb>קֻקֲרִי</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>24</DicNumber>
+    <Arb>فن الطبخ</Arb>
+    <EngInArb>كوكري</EngInArb>
+  </word>
+  <word>
+    <Eng>onion</Eng>
+    <EngEnd>onions</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>בצל</Heb>
+    <EngInHeb>אַנְיֲן</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>1</DicNumber>
+    <Arb>بصل</Arb>
+    <EngInArb>أونين</EngInArb>
+  </word>
+  <word>
+    <Eng>raw</Eng>
+    <EngEnd>raw</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>בלתי-מבושל</Heb>
+    <EngInHeb>רוֹ</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>22</DicNumber>
+    <Arb>ني</Arb>
+    <EngInArb>روو</EngInArb>
+  </word>
+  <word>
+    <Eng>steam</Eng>
+    <EngEnd>steam</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>לאיד</Heb>
+    <EngInHeb>סְטִים</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>6</DicNumber>
+    <Arb>البخار</Arb>
+    <EngInArb>ستيم</EngInArb>
+  </word>
+  <word>
+    <Eng>tender</Eng>
+    <EngEnd>tender</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>רך</Heb>
+    <EngInHeb>טֶנְדְר</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>26</DicNumber>
+    <Arb>ناعم</Arb>
+    <EngInArb>تيندير </EngInArb>
+  </word>
+  <word>
+    <Eng>crush</Eng>
+    <EngEnd>crush</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>לרסק</Heb>
+    <EngInHeb>קְרַש</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>14</DicNumber>
+    <Arb>يسحق</Arb>
+    <EngInArb>كرَش</EngInArb>
+  </word>
+  <word>
+    <Eng>paste</Eng>
+    <EngEnd>paste</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>עיסה</Heb>
+    <EngInHeb>פֵּיסְט</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>15</DicNumber>
+    <Arb>لصق</Arb>
+    <EngInArb>پييست</EngInArb>
+  </word>
+  <word>
+    <Eng>mixture</Eng>
+    <EngEnd>mixture</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>תערובת</Heb>
+    <EngInHeb>מִקְסְצְ'ר</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>23</DicNumber>
+    <Arb>خليط</Arb>
+    <EngInArb>مِكستشَر</EngInArb>
+  </word>
+  <word>
+    <Eng>watery</Eng>
+    <EngEnd>watery</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>מימי</Heb>
+    <EngInHeb>ווֹטֲרִי</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>12</DicNumber>
+    <Arb>مائي</Arb>
+    <EngInArb>ووتِري</EngInArb>
+  </word>
+  <word>
+    <Eng>thicken</Eng>
+    <EngEnd>thicken</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>לעבות</Heb>
+    <EngInHeb>תִ'קְן</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>13</DicNumber>
+    <Arb>يغلظ</Arb>
+    <EngInArb>ثيكن</EngInArb>
+  </word>
+  <word>
+    <Eng>tasteless</Eng>
+    <EngEnd>tasteless</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>חסר טעם</Heb>
+    <EngInHeb>טֵיסְטְלֶס</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>29</DicNumber>
+    <Arb>لا طعم له</Arb>
+    <EngInArb>تيستلِس</EngInArb>
+  </word>
+  <word>
+    <Eng>flesh</Eng>
+    <EngEnd>flesh</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>בשר</Heb>
+    <EngInHeb>פְלֶש</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>30</DicNumber>
+    <Arb>لحم</Arb>
+    <EngInArb>فليش</EngInArb>
+  </word>
+  <word>
+    <Eng>frozen</Eng>
+    <EngEnd>frozen</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>קפוא</Heb>
+    <EngInHeb>פְרוֹוּזְן</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>27</DicNumber>
+    <Arb>مجمد</Arb>
+    <EngInArb>فروزين</EngInArb>
+  </word>
+  <word>
+    <Eng>fat</Eng>
+    <EngEnd>fat</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>שומן</Heb>
+    <EngInHeb>פֱט</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>8</DicNumber>
+    <Arb>الدهون</Arb>
+    <EngInArb>فات</EngInArb>
+  </word>
+  <word>
+    <Eng>fatty</Eng>
+    <EngEnd>fattier</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>שמן</Heb>
+    <EngInHeb>פֱטִי</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>2</DicNumber>
+    <Arb>دهني</Arb>
+    <EngInArb>فاتي</EngInArb>
+  </word>
+  <word>
+    <Eng>roast</Eng>
+    <EngEnd>roasted</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>צלוי</Heb>
+    <EngInHeb>רוֹוּסְט</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>7</DicNumber>
+    <Arb>يشوي</Arb>
+    <EngInArb>روست</EngInArb>
+  </word>
+  <word>
+    <Eng>tenderness</Eng>
+    <EngEnd>tenderness</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>רכות</Heb>
+    <EngInHeb>טֶנְדְרְנֶס</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>21</DicNumber>
+    <Arb>رقة</Arb>
+    <EngInArb>تيندرنيس</EngInArb>
+  </word>
+  <word>
+    <Eng>rawness</Eng>
+    <EngEnd>rawness</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>מצב לא-מבושל</Heb>
+    <EngInHeb>רוֹנֶס</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>3</DicNumber>
+    <Arb>غير مطبوخ</Arb>
+    <EngInArb>راونيس</EngInArb>
+  </word>
+  <word>
+    <Eng>sweet</Eng>
+    <EngEnd>sweet</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>קינוח</Heb>
+    <EngInHeb>סְוִיט</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>18</DicNumber>
+    <Arb>حلو</Arb>
+    <EngInArb>سويت</EngInArb>
+  </word>
+  <word>
+    <Eng>sweeten</Eng>
+    <EngEnd>sweeten</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>להמתיק</Heb>
+    <EngInHeb>סְוִיטְן</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>16</DicNumber>
+    <Arb>يحلي</Arb>
+    <EngInArb>سويتين</EngInArb>
+  </word>
+  <word>
+    <Eng>pastry</Eng>
+    <EngEnd>pastry</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>מיני מאפה</Heb>
+    <EngInHeb>פֵּיסְטְרִי</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>28</DicNumber>
+    <Arb>فطائر</Arb>
+    <EngInArb>پيستري</EngInArb>
+  </word>
+  <word>
+    <Eng>course</Eng>
+    <EngEnd>course</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>מנה</Heb>
+    <EngInHeb>קוֹרְס</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>31</DicNumber>
+    <Arb>مجرى</Arb>
+    <EngInArb>كورس</EngInArb>
+  </word>
+  <word>
+    <Eng>flavour</Eng>
+    <EngEnd>flavours</EngEnd>
+    <PartOfSpeechEng>verb</PartOfSpeechEng>
+    <Heb>לתבל</Heb>
+    <EngInHeb>פְלֵיבְר</EngInHeb>
+    <PartOfSpeechHeb>פועל</PartOfSpeechHeb>
+    <DicNumber>19</DicNumber>
+    <Arb>نكهة</Arb>
+    <EngInArb>فليڤِر</EngInArb>
+  </word>
+  <word>
+    <Eng>bitterness</Eng>
+    <EngEnd>bitterness</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>מרירות</Heb>
+    <EngInHeb>בִּטְרְנֶס</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>20</DicNumber>
+    <Arb>مرارة</Arb>
+    <EngInArb>بيترنيس</EngInArb>
+  </word>
+  <word>
+    <Eng>sweetness</Eng>
+    <EngEnd>sweetness</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>מתיקות</Heb>
+    <EngInHeb>סְוִיטְנֶס</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>25</DicNumber>
+    <Arb>حلاوة</Arb>
+    <EngInArb>سويتنيس</EngInArb>
+  </word>
+  <word>
+    <Eng>essence</Eng>
+    <EngEnd>essence</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>תמצית</Heb>
+    <EngInHeb>אֶסֲנְס</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>11</DicNumber>
+    <Arb>جوهر</Arb>
+    <EngInArb>اسينس</EngInArb>
+  </word>
+  <word>
+    <Eng>milky</Eng>
+    <EngEnd>milky</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>חלבי</Heb>
+    <EngInHeb>מִלְקִי</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>5</DicNumber>
+    <Arb>حليبي</Arb>
+    <EngInArb>ميلكي</EngInArb>
+  </word>
+  <word>
+    <Eng>spirits</Eng>
+    <EngEnd>spirits</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>משקה אלכוהולי</Heb>
+    <EngInHeb>סְפִּרִטְס</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>17</DicNumber>
+    <Arb>معنويات</Arb>
+    <EngInArb>سبيرتس</EngInArb>
+  </word>
+  <word>
+    <Eng>juice</Eng>
+    <EngEnd>juice</EngEnd>
+    <PartOfSpeechEng>noun</PartOfSpeechEng>
+    <Heb>מיץ</Heb>
+    <EngInHeb>ג'וּס</EngInHeb>
+    <PartOfSpeechHeb>שם עצם</PartOfSpeechHeb>
+    <DicNumber>10</DicNumber>
+    <Arb>عصير</Arb>
+    <EngInArb>جوس</EngInArb>
+  </word>
+  <word>
+    <Eng>juicy</Eng>
+    <EngEnd>juicy</EngEnd>
+    <PartOfSpeechEng>adjective</PartOfSpeechEng>
+    <Heb>עסיסי</Heb>
+    <EngInHeb>ג'וּסִי</EngInHeb>
+    <PartOfSpeechHeb>תואר השם</PartOfSpeechHeb>
+    <DicNumber>9</DicNumber>
+    <Arb>رطب وطازج</Arb>
+    <EngInArb>جوسي</EngInArb>
+  </word>
+</Words>

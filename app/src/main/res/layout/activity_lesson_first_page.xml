@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/shape_radious"
+    tools:context=".LessonFirstPageActivity">
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_weight="1"
+            android:gravity="center|left"
+            android:text="@string/learnWords"
+            android:drawableLeft="@drawable/learnword"
+            android:layout_width="match_parent"
+            android:layout_height="120sp"
+            android:layout_margin="2sp"
+            android:textSize="20sp"/>
+        <TextView
+            android:gravity="center|left"
+            android:layout_weight="1"
+            android:drawableLeft="@drawable/exercise"
+            android:text="@string/exercice"
+            android:layout_width="match_parent"
+            android:layout_height="120sp"
+            android:layout_margin="2sp"
+            android:textSize="20sp"/>
+        <TextView
+            android:textSize="20sp"
+            android:gravity="center|left"
+            android:layout_weight="1"
+            android:text="@string/exercice"
+            android:drawableLeft="@drawable/sound"
+            android:layout_width="match_parent"
+            android:layout_height="120sp"
+            android:layout_margin="2sp"/>
+        <TextView
+
+            android:textSize="20sp"
+            android:layout_weight="1"
+            android:gravity="center|left"
+            android:text="@string/moreQuery"
+            android:drawableLeft="@drawable/morequery"
+            android:layout_width="match_parent"
+            android:layout_height="120sp"
+            android:layout_margin="2sp"/>
+        <TextView
+
+            android:textSize="20sp"
+            android:layout_weight="1"
+            android:gravity="center|left"
+            android:text="@string/moreQuery"
+            android:drawableLeft="@drawable/exam"
+            android:layout_width="match_parent"
+            android:layout_height="120sp"
+            android:layout_margin="2sp"/>
+
+    </LinearLayout>
+
+    <com.hitomi.cmlibrary.CircleMenu
+    android:layout_weight="1"
+    android:id="@+id/circle_menu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+    <!--<TextView-->
+    <!--android:id="@+id/lessonFirstPageTxtTitle"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_alignParentRight="true"-->
+    <!--android:layout_alignParentTop="true"-->
+    <!--android:layout_gravity="center_horizontal"-->
+    <!--android:layout_marginRight="20dp"-->
+    <!--android:layout_marginTop="2dp"-->
+    <!--android:background="#f2fcfe"-->
+    <!--android:text="שיעור X"-->
+    <!--android:textStyle="bold"-->
+    <!--android:textColor="#0000FF"-->
+    <!--android:textSize="20dp" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/lessonFirstPageTxtContent"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="center_horizontal"-->
+    <!--android:layout_marginTop="30dp"-->
+    <!--android:gravity="right"-->
+    <!--android:text="בחר:"-->
+    <!--android:textAlignment="gravity"-->
+    <!--android:background="#f2fcfe"-->
+    <!--android:textStyle="bold"-->
+    <!--android:textSize="20dp">-->
+    <!---->
+    <!--</TextView>-->
+    <!--<android.support.v7.widget.Toolbar-->
+    <!--android:id="@+id/toolbar"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:background="@color/colorPrimary"-->
+    <!--android:minHeight="?attr/actionBarSize"-->
+    <!--android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"-->
+    <!--app:popupTheme="@style/ThemeOverlay.AppCompat.Light"-->
+    <!--&gt;-->
+    <!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:orientation="vertical">-->
+    <!--</LinearLayout>-->
+
+    <!--</android.support.v7.widget.Toolbar>-->
+
+
+
+
+
+
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:orientation="horizontal"-->
+    <!--android:layout_margin="2sp">-->
+
+    <!--<android.support.v7.widget.CardView-->
+    <!--android:id="@+id/btnLearnWords"-->
+    <!--android:layout_weight="1"-->
+    <!--android:layout_marginRight="20sp"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="center_horizontal"-->
+    <!--android:layout_marginTop="20dp"-->
+    <!--android:background="@drawable/shape"-->
+    <!--android:minHeight="40dip"-->
+    <!--android:minWidth="80dip"-->
+    <!--&gt;-->
+    <!--<TextView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="@string/learnWords"-->
+    <!--android:textSize="20dp"-->
+    <!--/>-->
+
+    <!--</android.support.v7.widget.CardView>-->
+    <!--<android.support.v7.widget.CardView-->
+    <!--android:id="@+id/btnPractice"-->
+    <!--android:layout_weight="1"-->
+    <!--android:layout_marginRight="20sp"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="center_horizontal"-->
+    <!--android:layout_marginTop="20dp"-->
+    <!--android:background="@drawable/shape"-->
+    <!--android:minHeight="40dip"-->
+    <!--android:minWidth="80dip"-->
+    <!--android:text="@string/exercice"-->
+    <!--android:textSize="20dp" >-->
+    <!--<TextView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="תירגול"-->
+    <!--android:textSize="20dp"/>-->
+    <!--</android.support.v7.widget.CardView>-->
+
+    <!--</LinearLayout>-->
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:orientation="horizontal"-->
+    <!--android:layout_margin="2sp">-->
+
+    <!--<android.support.v7.widget.CardView-->
+    <!--android:layout_weight="1"-->
+    <!--android:id="@+id/btnTestYourSelf"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="center_horizontal"-->
+    <!--android:layout_marginTop="20dp"-->
+    <!--android:background="@drawable/shape"-->
+    <!--android:minHeight="40dip"-->
+    <!--android:minWidth="80dip"-->
+    <!--android:layout_marginRight="20sp"-->
+    <!--&gt;-->
+    <!--<TextView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="@string/setlectExam"-->
+    <!--android:textSize="20dp"/>-->
+
+    <!--</android.support.v7.widget.CardView>-->
+    <!--<android.support.v7.widget.CardView-->
+    <!--android:id="@+id/btnAdditionalQuestions"-->
+    <!--android:layout_marginRight="20sp"-->
+    <!--android:layout_weight="1"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="center_horizontal"-->
+    <!--android:layout_marginTop="20dp"-->
+    <!--android:background="@drawable/shape"-->
+    <!--android:minHeight="40dip"-->
+    <!--android:minWidth="80dip"-->
+    <!--android:text="שאלות נוספות"-->
+    <!--android:textSize="20dp" >-->
+    <!--<TextView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="@string/moreQuery"-->
+    <!--android:textSize="20dp" />-->
+    <!--</android.support.v7.widget.CardView>-->
+
+    <!--</LinearLayout>-->
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="190sp"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:orientation="horizontal"-->
+    <!--android:layout_margin="2sp"-->
+    <!--android:layout_marginRight="20sp">-->
+    <!--<android.support.v7.widget.CardView-->
+    <!--android:id="@+id/btnRehearsal"-->
+    <!--android:layout_weight="1"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="center_horizontal"-->
+    <!--android:layout_marginTop="20dp"-->
+    <!--android:background="@drawable/shape"-->
+    <!--android:minHeight="40dip"-->
+    <!--android:minWidth="80dip"-->
+    <!--android:text="חזרה"-->
+    <!--android:textSize="20dp" >-->
+    <!--<TextView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="@string/moreQuery"-->
+    <!--android:textSize="20dp" />-->
+    <!--</android.support.v7.widget.CardView>-->
+    <!--</LinearLayout>-->
+
+</LinearLayout>

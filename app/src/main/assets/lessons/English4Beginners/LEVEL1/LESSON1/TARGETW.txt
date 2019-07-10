@@ -1,0 +1,234 @@
+B
+1
+בּי
+B
+other type
+
+
+
+NO
+C
+2
+סִי 
+C
+other type
+
+
+
+NO
+D
+3
+דִי
+D
+other type
+
+
+
+NO
+G
+4
+גִ'י 
+G
+other type
+
+
+
+NO
+H
+5
+אֵיץ'
+H
+other type
+
+
+
+NO
+F
+6
+אֶף 
+F
+other type
+
+
+
+NO
+A
+7
+אֵי
+A
+other type
+
+
+
+NO
+K
+10
+קֵי
+K
+other type
+
+
+
+NO
+L
+11
+אֶל
+L
+other type
+
+
+
+NO
+M
+12
+אֶם
+M
+other type
+
+
+
+NO
+N
+13
+אֶן
+N
+other type
+
+
+
+NO
+I
+14
+אַי 
+I
+other type
+
+
+
+NO
+J
+15
+גֵ'י
+J
+other type
+
+
+
+NO
+P
+16
+ּפִּי
+P
+other type
+
+
+
+NO
+Q
+17
+קְיוּ
+Q
+other type
+
+
+
+NO
+R
+18
+אַר
+R
+other type
+
+
+
+NO
+S
+19
+אֶס
+S
+other type
+
+
+
+NO
+T
+20
+טִי
+T
+other type
+
+
+
+NO
+U
+21
+יוּ
+U
+other type
+
+
+
+NO
+V
+22
+בִי
+V
+other type
+
+
+
+NO
+W
+23
+דַבְּליוּ
+W
+other type
+
+
+
+NO
+X
+24
+אֶקְס
+X
+other type
+
+
+
+NO
+Y
+25
+וּאַי 
+Y
+other type
+
+
+
+NO
+Z
+26
+זֶד 
+Z
+other type
+
+
+
+NO
+E
+28
+אִי
+E
+other type
+
+
+
+NO
+O
+29
+אוֹוּ
+O
+other type
+
+
+
+NO

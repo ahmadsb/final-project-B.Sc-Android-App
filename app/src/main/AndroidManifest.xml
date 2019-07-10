@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.legatir.mylearnenglish">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/english_icon"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SplashScreenActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".chooseLevel.ChooseCategoryActivity" />
+        <activity android:name=".chooseLevel.ChooseLevelActivity" />
+        <activity android:name=".chooseLevel.ChooseLessonActivity" />
+        <activity android:name=".LessonFirstPageActivity" />
+        <activity android:name=".LearnWordsActivity" />
+        <activity android:name=".PracticeActivity" />
+        <activity android:name=".AdditionalQuestionsActivity" />
+        <activity android:name=".exam" />
+        <activity android:name=".recorder" />
+        <activity android:name=".MoreInfo"></activity>
+    </application>
+
+</manifest>

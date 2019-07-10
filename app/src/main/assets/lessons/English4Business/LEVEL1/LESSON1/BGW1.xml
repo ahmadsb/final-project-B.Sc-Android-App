@@ -1,0 +1,583 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Translations>
+  <Translation>
+    <EngTranslation>
+      <Eng>manufacturer</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>יצרן</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>صاحب المصنع</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>discuss</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לדון</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يبحث, يناقش</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>chances</Eng>
+      <Eng>chance</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>סיכוי</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>فرص ، فرصة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>marketing consultants</Eng>
+      <Eng>marketing consultant</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>יועץ שיווק</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>تسويق </Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>survey</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>סקר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>استفتاء، استعراض</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>optimistic</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>אופטימי</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>متفائل</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>outlook</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>תחזית</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>توقعات, مستقبل, آفاق</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>details</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>פרטים</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>تفاصيل</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>main points</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>נקודות עיקריות</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>النقاط الرئيسية</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>concentrate</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>להתמקד</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يركـّز</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>sales area</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>אזורי מכירה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>منطقة المبيعات </Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>one by one</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>אחד אחר השני</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>واحد واحد</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>cautious</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>זהיר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>حذِر، محترس</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>In general</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>באופן כללי</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>بشكل عام, بصورة عامة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>quality</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>איכות</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>جودة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>product</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מוצר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>نتاج, منتوج</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>similar</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>דומה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>مثيل، مشابه</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>local</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מקומי</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>محلي</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>outmanuever</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לעלות על</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يناور خارجا</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>secure</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מובטח</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>آمِن</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>reasonable</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>סביר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>معقول, منطقي</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>population</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>אוכלוסיה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>سكان</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>efforts</Eng>
+      <Eng>effort</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מאמץ</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>جهود، جهد</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>limited</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מוגבל</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>محدود</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>area</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>איזור</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>منطقة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>determine</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לקבוע</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يحدد, يقرر</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>cover</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לכסות</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>غطاء، يغطي</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>options</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>אפשרויות</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>خيارات</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>well established</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מבוסס היטב</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>راسخة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>retailers</Eng>
+      <Eng>retailer</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>קמעונאי</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>تجار التجزئة ومتاجر التجزئة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>we'd rather</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>אנו מעדיפים</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>كنا نحبذ لو</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>contract</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>חוזה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>عقد, تعاقد, اتفاقية</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>sweaters</Eng>
+      <Eng>sweater</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>סוודר</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>البلوزات ، كنزة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>requested</Eng>
+      <Eng>request</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לבקש</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>طلب</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>Great</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>ניפלא</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>كبير, عظيم</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>go over</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לעבור על...</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يدرس, يراجع</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>method</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>שיטה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>طريقة, أسلوب, منهج</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>fast moving</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>נימכר בכמויות</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يتحرك بسرعة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>aim</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לחתור ל...</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>هدف, غاية</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>quality</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>איכותית</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>جودة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>attract</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>למשוך</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يجذب</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>damaging</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>להזיק</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>مؤذ, مدمِّر</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>prospects</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>צפי</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>احتمالات</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>limit</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>להגביל</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>حد</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>subject</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>נושא </Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>موضوع</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>steps</Eng>
+      <Eng>step</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>צעד</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>خطوات ، خطوة</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>distribution</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>הפצה</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>توزيع</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>discussed</Eng>
+      <Eng>discuss</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>לדון</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>بحث ، يناقش</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>local distributor.</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>מפיץ אזורי</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>الموزع المحلي.</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>possibility</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>אפשרות</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>إمكانية, احتمال</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>seems to be</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>ניראה ש...</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>يبدو أنه</Arb>
+    </ArbTranslation>
+  </Translation>
+  <Translation>
+    <EngTranslation>
+      <Eng>percentage agreement</Eng>
+    </EngTranslation>
+    <HebTranslation>
+      <Heb>הסכם אחוזים</Heb>
+    </HebTranslation>
+    <ArbTranslation>
+      <Arb>نسبة الاتفاق</Arb>
+    </ArbTranslation>
+  </Translation>
+</Translations>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+
+    android:background="@drawable/shape"
+
+    tools:context=".chooseLevel.ChooseLevelActivity" >
+
+    <TextView
+        android:id="@+id/listLessonsTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="2dp"
+        android:textSize="30dp"
+        android:background="#f2fcfe"
+        android:textColor="#3b5998"
+        android:text="בחר רמה"
+        android:textStyle="bold"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginTop="10dp"
+        android:background="#8f8f8f"
+
+        />
+
+    <Button
+        android:id="@+id/button_level1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:padding="20sp"
+
+        android:layout_marginTop="50dp"
+
+        android:background="@drawable/students"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:textSize="20dp"
+
+        android:text=" קריאה" />
+
+
+    <Button
+        android:id="@+id/button_level2"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:padding="20sp"
+
+        android:layout_marginTop="30dp"
+
+        android:background="@drawable/students"
+        android:textColor="#fff"
+
+        android:textStyle="bold"
+        android:textSize="20dp"
+
+        android:text=" אוצר מילים" />
+
+
+
+    <Button
+        android:id="@+id/button_level3"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:padding="20sp"
+
+        android:layout_marginTop="30dp"
+
+        android:background="@drawable/students"
+        android:textColor="#fff"
+
+        android:textStyle="bold"
+        android:textSize="20dp"
+
+        android:text="דקדוק" />
+
+
+
+</LinearLayout>

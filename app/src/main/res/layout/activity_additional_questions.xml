@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AdditionalQuestionsActivity">
+    <android.support.v7.widget.Toolbar
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:popupTheme="@style/AppTheme"
+        android:id="@+id/toolbar_learn_words"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#001967"
+        app:theme="@style/ThemeOverlay.AppCompat"
+        >
+
+    </android.support.v7.widget.Toolbar>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/shape_radious"
+        >
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/txtTitle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="TextView"
+                    android:textSize="30dp"
+                    android:textStyle="bold"
+                    android:fontFamily="casual"/>
+
+                <TextView
+                    android:id="@+id/subTitle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="שאלות נוספות"
+                    android:textColor="#00A2F3"
+                    android:textStyle="bold"
+                    android:textSize="30dp"
+                    android:fontFamily="casual"
+                    android:shadowRadius="20"
+                    />
+                <HorizontalScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    >
+                    <LinearLayout
+                        android:id="@+id/mdotLayout"
+                        android:layout_gravity="center|top"
+                        android:gravity="center|top"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/viewPager"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="20dp"
+                        android:orientation="horizontal">
+
+                    </LinearLayout>
+                </HorizontalScrollView>
+            </LinearLayout>
+
+
+            <com.hitomi.cmlibrary.CircleMenu
+                android:id="@+id/circle_menu"
+                android:layout_width="300sp"
+                android:layout_height="300sp"
+                android:layout_marginLeft="200sp"
+                android:layout_gravity="right"
+                android:layout_marginTop="10sp"
+                />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:id="@+id/activity_additional_questions"
+                android:layout_marginTop="190sp">
+
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    >
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_marginTop="4sp">
+
+                        <ImageButton
+                            android:id="@+id/iconSpeak"
+                            android:layout_width="50sp"
+                            android:layout_height="50sp"
+                            android:layout_weight="1"
+                            android:src="@drawable/ic_volume_up_black_24dp"
+                            android:background="@drawable/button_answer"
+                            android:layout_margin="10sp"
+                            />
+
+                        <TextView
+                            android:id="@+id/txt_query"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="4"
+                            android:gravity="right"
+                            android:layout_gravity="center"
+                            android:text="TextView"
+                            android:textSize="60px"
+                            android:layout_marginRight="20sp"
+                            android:textStyle="bold"/>
+
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="2dp"
+                        android:layout_margin="15sp"
+                        android:background="@drawable/button_answer"
+                        ></View>
+
+                    <RadioGroup
+                        android:backgroundTint="@color/colorPrimary"
+                        android:layout_marginTop="15sp"
+                        android:id="@+id/groupRadio"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:layout_gravity="center"
+                        >
+
+                    </RadioGroup>
+
+                    <Button
+                        android:id="@+id/btn_submit"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="אישור"
+                        android:background="@drawable/button_circle"
+                        android:layout_marginTop="20sp"
+                        android:layout_margin="30sp"
+                        />
+
+                    <Button
+                        android:visibility="invisible"
+                        android:id="@+id/btn_next_query"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="השאלה הבאה" />
+
+                </LinearLayout>
+
+
+
+            </LinearLayout>
+
+        </FrameLayout>
+    </ScrollView>a
+</LinearLayout>
